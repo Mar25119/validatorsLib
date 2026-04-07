@@ -1,3 +1,7 @@
+
+<img width="340" height="161" alt="image" src="https://github.com/user-attachments/assets/25f903a9-f8f1-4c74-820a-cdcde20f4f3d" />
+
+
 # Проект: Классификация строк с помощью validators
 
 Учебный проект, демонстрирующий использование библиотеки validators для определения типа данных: email, URL или IP-адрес.
